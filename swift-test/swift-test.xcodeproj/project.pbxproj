@@ -28,6 +28,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D93B6DC82C22AB3700F8665F /* BufferSubject.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BufferSubject.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D9A6DC0E2C21832A00683014 /* swift-test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swift-test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9A6DC112C21832A00683014 /* swift_testApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_testApp.swift; sourceTree = "<group>"; };
 		D9A6DC132C21832A00683014 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -154,6 +155,7 @@
 				D9A6DC452C21865400683014 /* Reduce.playground */,
 				D9A6DC472C2186A300683014 /* SingleAndObservable.playground */,
 				D9A6DC482C21873700683014 /* CompletableMerge.playground */,
+				D93B6DC82C22AB3700F8665F /* BufferSubject.playground */,
 			);
 			path = CombiningOperator;
 			sourceTree = "<group>";
