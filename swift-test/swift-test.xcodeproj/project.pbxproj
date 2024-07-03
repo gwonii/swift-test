@@ -30,6 +30,8 @@
 /* Begin PBXFileReference section */
 		D93B6DC82C22AB3700F8665F /* BufferSubject.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BufferSubject.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D953381A2C35232C005DFEC6 /* ConcatAndEmpty.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ConcatAndEmpty.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D953381D2C352F5A005DFEC6 /* ConcatAndSubject.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ConcatAndSubject.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D953381E2C353170005DFEC6 /* ConcatAndSubject2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ConcatAndSubject2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D9A6DC0E2C21832A00683014 /* swift-test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swift-test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9A6DC112C21832A00683014 /* swift_testApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_testApp.swift; sourceTree = "<group>"; };
 		D9A6DC132C21832A00683014 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -160,6 +162,8 @@
 				D9A6DC482C21873700683014 /* CompletableMerge.playground */,
 				D93B6DC82C22AB3700F8665F /* BufferSubject.playground */,
 				D953381A2C35232C005DFEC6 /* ConcatAndEmpty.playground */,
+				D953381D2C352F5A005DFEC6 /* ConcatAndSubject.playground */,
+				D953381E2C353170005DFEC6 /* ConcatAndSubject2.playground */,
 			);
 			path = CombiningOperator;
 			sourceTree = "<group>";
