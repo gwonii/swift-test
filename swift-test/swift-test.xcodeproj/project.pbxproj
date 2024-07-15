@@ -58,6 +58,7 @@
 		D9AAE9CE2C33D8FC00D9D9BC /* TimeoutAndCatchReturn.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TimeoutAndCatchReturn.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D9B853A62C36601A00FA7D62 /* EdgeCase1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = EdgeCase1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D9F667802C451D1B00404B8A /* EdgeCase2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = EdgeCase2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D9F667832C45284000404B8A /* Timeout.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Timeout.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D9FD56EA2C3B8A98003EF3AF /* TimerAndFlatMap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TimerAndFlatMap.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -135,6 +136,7 @@
 		D9A6DC242C21839800683014 /* RxSwift-test */ = {
 			isa = PBXGroup;
 			children = (
+				D9F667822C45283300404B8A /* Timeout */,
 				D9FD56E92C3B8A79003EF3AF /* Timer */,
 				D9AAE9CD2C33D8D700D9D9BC /* Catch */,
 				D9A6DC462C21867B00683014 /* Observable */,
@@ -223,6 +225,14 @@
 				D9AAE9CE2C33D8FC00D9D9BC /* TimeoutAndCatchReturn.playground */,
 			);
 			path = Catch;
+			sourceTree = "<group>";
+		};
+		D9F667822C45283300404B8A /* Timeout */ = {
+			isa = PBXGroup;
+			children = (
+				D9F667832C45284000404B8A /* Timeout.playground */,
+			);
+			path = Timeout;
 			sourceTree = "<group>";
 		};
 		D9FD56E92C3B8A79003EF3AF /* Timer */ = {
