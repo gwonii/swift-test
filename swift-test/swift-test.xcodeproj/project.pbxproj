@@ -57,6 +57,7 @@
 		D9A6DC5D2C2187D200683014 /* Atmoic.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Atmoic.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D9AAE9CE2C33D8FC00D9D9BC /* TimeoutAndCatchReturn.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TimeoutAndCatchReturn.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D9B853A62C36601A00FA7D62 /* EdgeCase1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = EdgeCase1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D9F667802C451D1B00404B8A /* EdgeCase2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = EdgeCase2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D9FD56EA2C3B8A98003EF3AF /* TimerAndFlatMap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TimerAndFlatMap.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -168,6 +169,7 @@
 				D953381D2C352F5A005DFEC6 /* ConcatAndSubject.playground */,
 				D953381E2C353170005DFEC6 /* ConcatAndSubject2.playground */,
 				D9B853A62C36601A00FA7D62 /* EdgeCase1.playground */,
+				D9F667802C451D1B00404B8A /* EdgeCase2.playground */,
 			);
 			path = CombiningOperator;
 			sourceTree = "<group>";
