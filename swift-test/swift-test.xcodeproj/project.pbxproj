@@ -33,6 +33,7 @@
 		D953381A2C35232C005DFEC6 /* ConcatAndEmpty.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ConcatAndEmpty.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D953381D2C352F5A005DFEC6 /* ConcatAndSubject.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ConcatAndSubject.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D953381E2C353170005DFEC6 /* ConcatAndSubject2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ConcatAndSubject2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D959FDE72CE60D7300461990 /* CurriedFunction.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CurriedFunction.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D9A6DC0E2C21832A00683014 /* swift-test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swift-test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9A6DC112C21832A00683014 /* swift_testApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_testApp.swift; sourceTree = "<group>"; };
 		D9A6DC132C21832A00683014 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,10 +97,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D959FDE62CE60D6500461990 /* CurriedFunction */ = {
+			isa = PBXGroup;
+			children = (
+				D959FDE72CE60D7300461990 /* CurriedFunction.playground */,
+			);
+			path = CurriedFunction;
+			sourceTree = "<group>";
+		};
 		D9A6DC052C21832A00683014 = {
 			isa = PBXGroup;
 			children = (
-				D9E1E7582C63071F0044A45C /* New Group */,
 				D9A6DC102C21832A00683014 /* swift-test */,
 				D9A6DC242C21839800683014 /* RxSwift-test */,
 				D9A6DC4F2C2187B900683014 /* thread-test */,
@@ -121,6 +129,7 @@
 		D9A6DC102C21832A00683014 /* swift-test */ = {
 			isa = PBXGroup;
 			children = (
+				D959FDE62CE60D6500461990 /* CurriedFunction */,
 				D9E1E7592C63072A0044A45C /* Closure */,
 				D9A6DC112C21832A00683014 /* swift_testApp.swift */,
 				D9A6DC132C21832A00683014 /* ContentView.swift */,
@@ -232,13 +241,6 @@
 				D9AAE9CE2C33D8FC00D9D9BC /* TimeoutAndCatchReturn.playground */,
 			);
 			path = Catch;
-			sourceTree = "<group>";
-		};
-		D9E1E7582C63071F0044A45C /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group";
 			sourceTree = "<group>";
 		};
 		D9E1E7592C63072A0044A45C /* Closure */ = {
