@@ -29,6 +29,11 @@ subject.onNext("shoot")
 sleep(1)
 print("case1 end\n")
 
+// result
+///1
+///shoot
+///case1 end
+
 // MARK: - Case2 subject with take
 
 let subject2 = PublishSubject<String>()
